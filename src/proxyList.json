@@ -1,0 +1,7 @@
+[
+  {
+    "url": "/test",
+    "forwardTo": "localhost:10",
+    "options": {}
+  }
+]

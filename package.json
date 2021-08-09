@@ -1,0 +1,24 @@
+{
+  "name": "express-site-proxy",
+  "version": "1.0.0",
+  "description": "Proxy URL requests to another URL server side",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImNotAuzero/Express-Site-Proxy.git"
+  },
+  "author": "ImNotAuzero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImNotAuzero/Express-Site-Proxy/issues"
+  },
+  "homepage": "https://github.com/ImNotAuzero/Express-Site-Proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.2",
+    "fs-extra": "^10.0.0"
+  }
+}
